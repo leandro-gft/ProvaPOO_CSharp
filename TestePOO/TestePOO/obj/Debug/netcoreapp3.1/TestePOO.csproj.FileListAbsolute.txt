@@ -1,0 +1,11 @@
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\bin\Debug\netcoreapp3.1\TestePOO.exe
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\bin\Debug\netcoreapp3.1\TestePOO.deps.json
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\bin\Debug\netcoreapp3.1\TestePOO.runtimeconfig.json
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\bin\Debug\netcoreapp3.1\TestePOO.runtimeconfig.dev.json
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\bin\Debug\netcoreapp3.1\TestePOO.dll
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\bin\Debug\netcoreapp3.1\TestePOO.pdb
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\obj\Debug\netcoreapp3.1\TestePOO.csprojAssemblyReference.cache
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\obj\Debug\netcoreapp3.1\TestePOO.AssemblyInfoInputs.cache
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\obj\Debug\netcoreapp3.1\TestePOO.AssemblyInfo.cs
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\obj\Debug\netcoreapp3.1\TestePOO.dll
+C:\Users\LOPH\source\repos\TestePOO\TestePOO\obj\Debug\netcoreapp3.1\TestePOO.pdb
